@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.image1{
+    display: flex;
+    gap: 5px;
+    padding: 4px;
+}
+.btn11{
+    padding-bottom: 10px;
+}

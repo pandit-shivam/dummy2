@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.btn122 {
+    /* display: inline-block; */
+    position: relative;
+    color: #0087ca;
+    background-color: white;
+    border: none;
+}
+  
+  
+  .btn122:after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: 0;
+    left: 0;
+    background-color: #0087ca;
+    transform-origin: bottom right;
+    transiwwtion: transform 0.25s ease-out;
+  }
+  
+  .btn122:hover:after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }

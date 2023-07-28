@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img11{
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.text22{
+    margin-top: 20px;
+}
+
+.btn1{
+    border-radius: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    width: 35%;
+    height: 7vh;
+    /* border:; */
+}
+.btn1:hover{
+    color: #000;
+    background-color: white;
+}

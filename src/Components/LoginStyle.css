@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background-image: url("https://w0.peakpx.com/wallpaper/818/148/HD-wallpaper-whatsapp-background-cool-dark-green-new-theme-whatsapp.jpg"); */
+    /* background-repeat: no-repeat; */
+}
+/* #root{
+    background-image: url("https://w0.peakpx.com/wallpaper/818/148/HD-wallpaper-whatsapp-background-cool-dark-green-new-theme-whatsapp.jpg");
+    height: 100vh;
+} */
+.card1{
+    width: 30%;
+    height: 70vh;
+    border: 3px solid rgb(66, 29, 29);
+    background-color: white;
+    border-radius: 5px;
+}
+.header{
+    margin: auto;
+}
+.head1{
+    display: flex;
+    justify-content: center;
+    width: 40%;
+    height: 50vh;
+    margin: auto;
+    font-size: 30px;
+    background-color: white;
+    
+}
